@@ -1,0 +1,6 @@
+Building blocks of html
+
+Tags- surrounds thr content and apply meaning to it,write using < and > brackets
+attribute - provides extra information about the element
+
+Meta tags- Doc type,title,link,meta
